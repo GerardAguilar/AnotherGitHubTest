@@ -9,9 +9,6 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>core</module>
-    <module>service</module>
-    <module>webapp</module>
-      <module>Gerard</module>
   </modules>
 
   <name>parent-project</name>
