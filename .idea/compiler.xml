@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="webapp" />
         <module name="core" />
+        <module name="Gerard" />
         <module name="service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="core" target="15" />
+      <module name="Gerard" target="15" />
       <module name="parent-project" target="1.7" />
       <module name="service" target="15" />
       <module name="webapp" target="15" />
